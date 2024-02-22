@@ -1,0 +1,13 @@
+What is a variable? - it is like a container we can use to save values and then use them later.
+
+we can use variables wherever we use a value and javascript will substitute whatever is in the variable into the code .
+
+
+Variable name restrictions:
+1. can't use special words , eg. later
+2. can't start with a number, eg. let    2name = 3;//however we can use numbers between the variable names and at the end , eg. let na2me = 3;
+and let name2 = 3;
+
+3. can't use special characters except:$ _
+eg. let $name =3; and let _name =3;
+
