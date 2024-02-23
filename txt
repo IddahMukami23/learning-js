@@ -11,3 +11,5 @@ and let name2 = 3;
 3. can't use special characters except:$ _
 eg. let $name =3; and let _name =3;
 
+Comparison OPERATORS
+
